@@ -46,3 +46,5 @@ If you come across a security vulnerability in Laravel, please report it by emai
 
 License
 Laravel is an open-source project licensed under the MIT license, allowing free use and modification.
+
+
